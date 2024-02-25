@@ -605,3 +605,19 @@
 .bg-info-dark-9 {
   background-color: #111617;
 }
+
+.text-black {
+  color: black;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.text-white {
+  color: white;
+}
+
+.bg-white {
+  background-color: white;
+}
