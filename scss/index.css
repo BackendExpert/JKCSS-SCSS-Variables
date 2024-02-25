@@ -1,0 +1,31 @@
+.text-primary {
+  color: blue;
+}
+
+.bg-primary {
+  background-color: blue;
+}
+
+.text-secondary {
+  color: gray;
+}
+
+.bg-secondary {
+  background-color: gray;
+}
+
+.text-error {
+  color: red;
+}
+
+.bg-error {
+  background-color: red;
+}
+
+.text-info {
+  color: lightblue;
+}
+
+.bg-info {
+  background-color: lightblue;
+}
